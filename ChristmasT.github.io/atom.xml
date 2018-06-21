@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Mike T's Blog]]></title>
+  <link href="christmast.github.io/atom.xml" rel="self"/>
+  <link href="christmast.github.io/"/>
+  <updated>2018-06-21T08:11:37Z</updated>
+  <id>christmast.github.io/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://www.coderforart.com/">CoderForArt</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="christmast.github.io/15295675132958.html"/>
+    <updated>2018-06-21T07:51:53Z</updated>
+    <id>christmast.github.io/15295675132958.html</id>
+    <content type="html"><![CDATA[
+
+]]></content>
+  </entry>
+  
+</feed>
