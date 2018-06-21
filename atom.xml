@@ -4,7 +4,7 @@
   <title><![CDATA[Mike T's Blog]]></title>
   <link href="christmast.github.io/atom.xml" rel="self"/>
   <link href="christmast.github.io/"/>
-  <updated>2018-06-21T08:20:13Z</updated>
+  <updated>2018-06-21T22:27:56Z</updated>
   <id>christmast.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -14,11 +14,35 @@
 
   
   <entry>
-    <title type="html"><![CDATA[test]]></title>
+    <title type="html"><![CDATA[test 2]]></title>
+    <link href="christmast.github.io/15296144883202.html"/>
+    <updated>2018-06-21T20:54:48Z</updated>
+    <id>christmast.github.io/15296144883202.html</id>
+    <content type="html"><![CDATA[
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[test 1]]></title>
+    <link href="christmast.github.io/15296144756804.html"/>
+    <updated>2018-06-21T20:54:35Z</updated>
+    <id>christmast.github.io/15296144756804.html</id>
+    <content type="html"><![CDATA[
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome！]]></title>
     <link href="christmast.github.io/15295675132958.html"/>
     <updated>2018-06-21T07:51:53Z</updated>
     <id>christmast.github.io/15295675132958.html</id>
     <content type="html"><![CDATA[
+<p>Aha! Sorry to let you know that this is actually just a place for me to dump thoughts.<br/>
+Just kidding, I will share some of my opinions and tips on this websites and hope you can enjoy it.</p>
+
+<p><img src="media/15295675132958/IMG_1282.png" alt="Guess where it is"/></p>
 
 ]]></content>
   </entry>
