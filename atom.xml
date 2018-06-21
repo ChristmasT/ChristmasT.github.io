@@ -4,7 +4,15 @@
   <title><![CDATA[Mike T's Blog]]></title>
   <link href="christmast.github.io/atom.xml" rel="self"/>
   <link href="christmast.github.io/"/>
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <updated>2018-06-21T21:49:54Z</updated>
+=======
   <updated>2018-06-21T21:21:51Z</updated>
+>>>>>>> parent of fc64737... 1
+=======
+  <updated>2018-06-21T21:46:57Z</updated>
+>>>>>>> parent of 5fa9581... 1
   <id>christmast.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -34,7 +42,11 @@
   </entry>
   
   <entry>
+<<<<<<< HEAD
+    <title type="html"><![CDATA[Welcome！]]></title>
+=======
     <title type="html"><![CDATA[test]]></title>
+>>>>>>> parent of fc64737... 1
     <link href="christmast.github.io/15295675132958.html"/>
     <updated>2018-06-21T07:51:53Z</updated>
     <id>christmast.github.io/15295675132958.html</id>
