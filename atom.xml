@@ -4,7 +4,7 @@
   <title><![CDATA[Mike T's Blog]]></title>
   <link href="christmast.github.io/atom.xml" rel="self"/>
   <link href="christmast.github.io/"/>
-  <updated>2018-06-21T20:33:35Z</updated>
+  <updated>2018-06-21T20:42:40Z</updated>
   <id>christmast.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://www.coderforart.com/">CoderForArt</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test 2]]></title>
+    <link href="christmast.github.io/15296144883202.html"/>
+    <updated>2018-06-21T20:54:48Z</updated>
+    <id>christmast.github.io/15296144883202.html</id>
+    <content type="html"><![CDATA[
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[test 1]]></title>
+    <link href="christmast.github.io/15296144756804.html"/>
+    <updated>2018-06-21T20:54:35Z</updated>
+    <id>christmast.github.io/15296144756804.html</id>
+    <content type="html"><![CDATA[
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[test]]></title>
