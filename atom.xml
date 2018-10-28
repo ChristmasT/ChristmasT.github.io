@@ -4,7 +4,7 @@
   <title><![CDATA[Mike T's Blog]]></title>
   <link href="christmast.github.io/atom.xml" rel="self"/>
   <link href="christmast.github.io/"/>
-  <updated>2018-06-22T08:50:37Z</updated>
+  <updated>2018-10-28T15:05:02+08:00</updated>
   <id>christmast.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -13,35 +13,1011 @@
   <generator uri="http://www.mweb.im/">MWeb</generator>
   
   <entry>
-    <title type="html"><![CDATA[test 2]]></title>
-    <link href="christmast.github.io/15296144883202.html"/>
-    <updated>2018-06-21T20:54:48Z</updated>
-    <id>christmast.github.io/15296144883202.html</id>
+    <title type="html"><![CDATA[HL Project]]></title>
+    <link href="christmast.github.io/15401112918001.html"/>
+    <updated>2018-10-21T16:41:31+08:00</updated>
+    <id>christmast.github.io/15401112918001.html</id>
     <content type="html"><![CDATA[
+<p>Questionnaire of HL projects</p>
+
+<p>---Your information---</p>
+
+<ol>
+<li><p>Which faculty are you in?<br/>
+​30A. Faculty of Arts and Social Sciences<br/>
+B. Faculty of Engineering<br/>
+​C. Faculty of Science<br/>
+​D. School of Design and Environment<br/>
+​E. School of Computing<br/>
+​F. School of Business</p></li>
+<li><p>Your gender:<br/>
+8A. Male<br/><br/>
+22B. Female</p></li>
+<li><p>Which year are you in?<br/>
+​14A. Year 1<br/><br/>
+5B. Year 2<br/><br/>
+5C. Year 3<br/><br/>
+5D. Year 4<br/><br/>
+1E. Year 5</p></li>
+<li><p>Where do you come from?<br/>
+​25A. Singapore<br/><br/>
+4B. Other countries in Asia<br/>
+1C. Europe<br/><br/>
+D. North America<br/>
+​E. South America<br/><br/>
+F. Oceania<br/><br/>
+G. Africa</p></li>
+</ol>
+
+<p>-- Survey questions --</p>
+
+<ol>
+<li>To what extent do you feel happy today?(Please rate on the scale of 5 where 1 stands for happiness and 5 for low feeling)<br/>
+1    2    3    4    5<br/>
+————————&gt;</li>
+</ol>
+
+<p>1    4    18   7  </p>
+
+<ol>
+<li>If you had an argument with your best friend, what would you do?<br/>
+0  A. Start a cold war with him/her, even fall out with him/her right away<br/>
+​     2B. Try to avoid meeting each other for a few days<br/>
+​     3C. Behave as if the argument did not take place<br/>
+​     25D. Try to negotiate with him/her and work the problem out</li>
+<li><p>Where do you think your stress comes from?<br/><br/>
+2A. parents’ expectation<br/><br/>
+8 B. peer competition<br/><br/>
+1    C. tutors’ requests<br/><br/>
+23  D. academic standards<br/>
+4   E. others_______</p></li>
+<li><p>Do(did) you have a g/b friend?<br/>
+→I have(had) a GF/BF, it brings<br/>
+܏    4 A. happiness܏<br/>
+1 B. stress  ܏<br/>
+14   C. both, but happiness outweighs stress    ܏<br/>
+D. both, but stress outweighs happiness<br/>
+→I don’t(didn’t) have a GF/BF, it brings<br/>
+2܏     A. happiness   ܏<br/>
+0  B. stress  ܏<br/>
+10 C. both, but happiness outweighs stress    ܏<br/>
+1  D. both, but stress outweighs happiness<br/>
+1  E. Others</p></li>
+<li><p>What is your attitude toward life?<br/>
+6A. I always expect the worst then I will not be disappointed.<br/>
+4B. I always expect the best then I will be more confident.<br/>
+20C. I will consider according to the actual situation.</p></li>
+<li><p>To what extent do you think others’ unfavorable opinions towards you affect your peace of mind?<br/>
+4A. they damage my peace of mind greatly and affect my daily life.<br/>
+18B. they damage my peace of mind slightly<br/>
+7C. I take unfavorable opinions to motivate myself to be better.<br/>
+1  D. I don’t care about others’ opinions.</p></li>
+<li><p>How do you feel when your competitor succeeds in a task which you could not do so well?<br/>
+15A.   I appreciate his/her effort and express it through a compliment<br/>
+14B.​I feel jealous, but I do congratulate him/her when we meet<br/>
+1C.​I avoid meeting him/her so that I can hide my jealousy</p></li>
+<li><p>You have been putting efforts to attain “X” for some time but unexpectedly “Y” comes out of your effort instead. How do you feel?<br/>
+1   A.   Very disappointed with the unexpected and I give up trying for “X”<br/>
+12 B.​Frustrated but I continue trying for “X”<br/>
+C.​Elated by the unexpected gain and I stop my efforts at that<br/>
+17   D.   Very happy with the unexpected gain but I will continue to strive for “X” nevertheless</p></li>
+<li><p>When things do not go according to my expectations<br/>
+13   A.   I try to find where the fault lies<br/>
+B.​I know it is because of others around<br/>
+1   C.​Complain about everything/everyone around<br/>
+18D.   Try to reflect on and see how I can turn the situation in my favor</p></li>
+<li><p>If you have a choice to be friends with the following type of people, who would you choose?<br/>
+4    A. A happy go lucky person<br/>
+2   B. An ambitious person who is never happy with achievement<br/>
+28    C. A person who finds good in others and appreciates</p></li>
+</ol>
 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[test 1]]></title>
-    <link href="christmast.github.io/15296144756804.html"/>
-    <updated>2018-06-21T20:54:35Z</updated>
-    <id>christmast.github.io/15296144756804.html</id>
+    <title type="html"><![CDATA[Online Magazine]]></title>
+    <link href="christmast.github.io/15401111621169.html"/>
+    <updated>2018-10-21T16:39:22+08:00</updated>
+    <id>christmast.github.io/15401111621169.html</id>
     <content type="html"><![CDATA[
+<p>Believe it or not, statistics show there are now about 2.62 billion social media users in the world (Tableau, 2018). Specifically, when it comes to the usage among students, the landscape is dramatic: a staggering 90% of students use social media (Perrin, 2015), and there is a 78% increase from 12% ten years ago (Perrin, 2015). Social media is defined as various effects made by the collectives of online communications channels dedicated to content-sharing and interaction. With such a huge user group of students, the negative consequences of social media are so grave that cannot be neglected. Take students in America for example, according to different aspects of their lives, the consequences can be categorized into three parts: academic performance, online safety, and personal relationships.</p>
+
+<p>To start with, being distracted by social media and relying too much on grammar-checking software on social media can result in slumps in academic performance. According to Dunn (2017), students who are easily distracted by social media perform dramatically worse than those who are not. Notifications from Facebook or WeChat grasp people’s attention from their current task. As a result, process like learning which requires high consistency will be significantly harmed. Additionally, texting on social media make students rely more on online grammar checking tools and more careless of grammar and sentence structures (Hopkins, 2017). Grammarly is a convenient software for students to automatically check grammar mistakes. Consequently, students naturally reckon that grammar does not matter. However, reliance on it makes it harder for students to compose correct sentences in an exam since no computers or phones are allowed, the result of which is surely lower grades. In short, over-reliance on social media will contribute to poorer academic grades due to their distraction and facility to correct grammar.</p>
+
+<p>Besides, due to the insidious danger and its feature of anonymity, social media poses a great threat to students’ safety. It has become apparent criminals rely on social media to engage susceptible and vulnerable students who lack the awareness of safety, parents’ guardianship, and are likely to share identifying information to strangers, that they will get scammed or be put in physical danger (Center City Pediatrics, 2018). Take cyberbullying for an example, statistics evolved by the US students reveals 55% of them have witnessed cyberbullying (Kim, 2014). 26% of female students say they have been stalked online, while 25% say they are under online sexual harassment (Duggan, 2014). A 12-year-old Florida girl committed suicide after she was bullied online by other girls through anonymous social media websites (Al Jazeera America, 2013). In most cases, cyberbullied students will not confide in their parents, which worsens the problem (Kim, 2014). To conclude, the safety on social media, including the reveal of information and cyberbullying, has already become an urgent problem with a huge scope especially for students.</p>
+
+<p>Furthermore, social media also cause damage to interpersonal relationships. Due to social media, a reduction of face-to-face communication is caused, which results in a dive of friendship quality. According to Maintaining Close Friendships Requires Face-to-Face Contact (2016), using social media reduces the time of face to face communication. However, communications in reality help to build trust and boost relationships (What Are the Benefits of Face to Face Communication, n.d.). Moreover, jealousy brought by social media is also responsible for a more distant friendship. Many students feel jealous when using social media, as is pointed out by Tips to Avoid Letting Social Media Ruin Your Family Life (2017),  42 percent of people are jealous of things posted online by their friends.  Subsequently, when one gets jealous of a friend, one tends to hold back from the friendship, and the friendship is harmed ( How Jealousy Can Poison a Friendship, 2015). Therefore, using social media causes jealousy and a lack of communication in real life, hence debases the quality of friendships.</p>
+
+<p>Social media have greatly improved people’s living standard, the problems posed by it should nevertheless be noted. Students get distracted by social media, rely on grammar checkers, expose to the criminals, and suffer from worsened friendships. Social media have created severe problems, to quit social media, or at least reduce the using of it, may be a good option.</p>
 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Welcome！]]></title>
-    <link href="christmast.github.io/15295675132958.html"/>
-    <updated>2018-06-21T07:51:53Z</updated>
-    <id>christmast.github.io/15295675132958.html</id>
+    <title type="html"><![CDATA[Family Values Of NUS Undergraduates]]></title>
+    <link href="christmast.github.io/15401109680234.html"/>
+    <updated>2018-10-21T16:36:08+08:00</updated>
+    <id>christmast.github.io/15401109680234.html</id>
     <content type="html"><![CDATA[
-<p>Aha! Sorry to let you know that this is actually just a place for me to dump thoughts.<br/>
-Just kidding, I will share some of my opinions and tips on this websites and hope you can enjoy it.</p>
+<p>Hypothesis: Singapore undergraduates consider family as an important component of their happiness. They are dependent on their families.<br/>
+Gender:   ⬜ Male  ⬜ Female<br/><br/>
+Nationality:  ⬜ Singapore  ⬜ Malaysia  ⬜ China   ⬜ India  ⬜ others<br/>
+Faculty: </p>
 
-<p><img src="media/15295675132958/IMG_1282.png" alt="Guess where it is!"/></p>
+<ol>
+<li><p>How much time do you spend with(online or face-to-face) family in one week? <br/>
+A. more than seven hours<br/>
+B. more than three hours, less than seven hours<br/>
+C. more than an hour, less than three hours<br/>
+D. less than an hour</p></li>
+<li><p>How many hours do you think is proper to spend with family members each day?<br/>
+A. more than 1 hour <br/>
+B. more than 0.5 hour and less than 1 hour<br/>
+C. less than 0.5 hour</p></li>
+<li><p>Do you think getting together with family members every day is a good and relaxing thing?<br/>
+A. yes <br/>
+B. no</p></li>
+<li><p>What do you do when getting together with your family members? ____________________________________________________</p></li>
+<li><p>Do you reach out for your family for help when you are? (Multiple Choices) <br/>
+⬜ experiencing stress and difficulties <br/>
+⬜ having financial problems<br/>
+⬜ feeling bored<br/>
+⬜ in hospital</p></li>
+<li><p>You chose your major <br/>
+A.independently<br/>
+B. with your family’s advice<br/>
+C. both<br/>
+7.(1) How does your family contribute to your sense of well being? <br/>
+    A. my family does not contribute to my well being<br/>
+    B. it is important to my well being mainly because it is my source of emotional support<br/>
+    C. it is important to my well being mainly because it is my source of financial support<br/>
+(2) If yes, why do you think so?</p></li>
+<li><p>Does your family expect you to give an allowance to them when you start working?<br/>
+A. yes<br/>
+B. no</p></li>
+<li><p>Are you willing to give an allowance to your parents when you start working? <br/>
+A. yes<br/>
+B. no</p></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Individual Report of HL Project]]></title>
+    <link href="christmast.github.io/15401040506200.html"/>
+    <updated>2018-10-21T14:40:50+08:00</updated>
+    <id>christmast.github.io/15401040506200.html</id>
+    <content type="html"><![CDATA[
+<h2 id="toc_0">Introduction</h2>
+
+<p>According to Henriques (2014), almost every college counseling center director reported that the number of students who have been diagnosed with mental illness is on the rise. This serious phenomenon has raised people&#39;s increasing awareness of students&#39; mental health. Mental health is of crucial importance to a college student since college is the place where significant impacts on individuals take place. However, even if an undergraduate is in a terrible mental condition, little care is given to improve mental health, the result of which is undoubtedly slumps in academic performance (Gorczynski, 2018). Thereby, in order to have ideal grades and enjoyable life in universities, an undergraduate should give top priority to their mental health in universities (Wakeford, 2017). In this case, the most optimal mental state is positive attitude and peace of mind, which refers to a healthy mental state in which one is optimistic and willing to act towards solving problems without anxiety or negativity. In his article, Wakeford(2017) has identified academic stress, isolation, balancing work and study, financial difficulties and living independently as the main aspects of mental health. Nonetheless, things might be slightly different among NUS undergraduates. Aiming to find out the mental health conditions of NUS undergraduates, we had decided to investigate them through surveys. Through investigating about the factors causing happiness or stress and how our respondents cope with difficult situations in daily life, our group have got to know more about the general mental states of NUS undergraduates and some minor difference between students with different gender, faculty or grade.</p>
+
+<h2 id="toc_1">Methodology</h2>
+
+<p>We had investigated 180 undergraduates in Faculty of Arts and Social Sciences(FASS), Faculty of Engineering(ENG), Faculty of Science(FoS), School of Design and Environment(SDE), School of Computing(SoC) and School of Business(BIZ). The researchers had been divided into 6 groups. Each group is responsible for surveying 30 students of one faculty through face-to-face interview or distributing questionnaires. The questions mainly focus on the origin of stress and happiness and the undergraduates&#39; attitudes towards daily life.</p>
+
+<h2 id="toc_2">References:</h2>
+
+<p>Gorczynski, P. (2018). <em>More academics and students have mental health problems than ever before</em>. Retrieved from <a href="http://theconversation.com/more-academics-and-students-have-mental-health-problems-than-ever-before-90339">http://theconversation.com/more-academics-and-students-have-mental-health-problems-than-ever-before-90339</a></p>
+
+<p>Henriques, G. (2014). <em>The College Student Mental Health Crisis</em>. Retrieved from <a href="https://www.psychologytoday.com/us/blog/theory-knowledge/201402/the-college-student-mental-health-crisis">https://www.psychologytoday.com/us/blog/theory-knowledge/201402/the-college-student-mental-health-crisis</a></p>
+
+<p>Wakeford, J. (2017)  <em>It&#39;s time for universities to put student mental health first</em>. Retrieved from It&#39;s time for universities to put student mental health first</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Experience interviewing undergraduates]]></title>
+    <link href="christmast.github.io/15401006007697.html"/>
+    <updated>2018-10-21T13:43:20+08:00</updated>
+    <id>christmast.github.io/15401006007697.html</id>
+    <content type="html"><![CDATA[
+<p>Two weeks ago, we had interviewed NUS undergraduates for our Values project, which aims to find out the value NUS undergraduates hold. To reach the goal of 30 surveys efficiently, our team was split into two groups, and Song Qifeng and I was one group. </p>
+
+<p>Since each person&#39;s task was to interview at least 6 undergraduates, Sonq Qifeng printed 20 surveys. Our first destination is a canteen in PGPR, Pines. However, we didn&#39;t get much result there since the queues were relatively short. Thus, people would not be willing to answer the question. As an alternative, going to FoS is our great choice because the queues there and the corresponding waiting time were longer. Thereby, we would have much longer time to interview an undergraduate. During the process of interviewing, we had discovered two interesting phenomena. First is that lots of customers were not undergraduates, even though they might look young. Second phenomenon is that among undergraduates, female undergraduates were generally more willing to answer the questions and the quality of the answers were generally better. Consequently, Song Qifeng and I had developed skills to spot those who are most likely to answer our questions. Nevertheless, to balance the sex ratio of our respondents, we still strived hard to seek male undergraduates to answer our question. Finally, after an hour, we&#39;ve successfully finished our mission, carrying 12 answer papers back to PGPR. </p>
+
+<p>Through this experience of interview, I got how difficult it is to do an interview. The persons who conduct the survey should find the respondents who are willing to answer, have the time to answer and most importantly, happens to be the target group of the interview. Also, I&#39;ve done a revision thinking about how we could improve our interview. I came up with an idea that we should give those who answer our questions some rewards like chocolate so as to make them feel that it is beneficial to both respondents and interviewers instead of merely benefiting interviewers. In this way, our survey could be done much better and quicker.®</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Online Magazine Outline]]></title>
+    <link href="christmast.github.io/15394430233232.html"/>
+    <updated>2018-10-13T23:03:43+08:00</updated>
+    <id>christmast.github.io/15394430233232.html</id>
+    <content type="html"><![CDATA[
+<h2 id="toc_0">Body Paragraph 1</h2>
+
+<h2 id="toc_1">Topic sentence:</h2>
+
+<p>Excessive social media usage can result in drops in academic performance in various ways.</p>
+
+<h2 id="toc_2">Supporting elaboration/explanation:</h2>
+
+<ol>
+<li>Students will be easily distracted by social media (Dunn, 2011).</li>
+<li>Texting on social media will make pupil more regardless of grammar and sentence structures and rely more on online grammar checking tools (Hopkins, 2017).</li>
+<li>Nowadays, the Internet has almost made all information accessible. Thus, students will less likely to retain and remember the knowledge since they can check it out anytime on the Internet.</li>
+</ol>
+
+<h2 id="toc_3">Examples:</h2>
+
+<ol>
+<li>Pop-up messages from Facebook or WeChat grasp one&#39;s attention from his or her current task, making it harder to concentrate.</li>
+<li> Grammarly is a convenient way for students to check grammar mistakes. However, reliance on it make it harder for student to compose correct sentence in an exam since no computers or phones are allowed in that occasion.</li>
+<li>Take Quora as an example, once a specific question is typed in, the answer will come out within several milliseconds. Therefore, students feel unnecessary to emphasize on learning and retaining information.</li>
+</ol>
+
+<h2 id="toc_4">Concluding statement:</h2>
+
+<p>In short, over-reliance on social media will contribute to poorer academic grades due to their distractions, regardlessness of grammar and convenience providing answers.</p>
+
+<h2 id="toc_5">Source URLs:</h2>
+
+<ol>
+<li>Hopkins, B.  (2017). Impact of Social Media on Education. Retrieved from <a href="https://www.academiaapps.com/impact-social-media-education/">https://www.academiaapps.com/impact-social-media-education/</a></li>
+<li> Dunn, J. (2011). The 10 Best and Worst Ways Social Media Impacts Education. Retrieved from <a href="http://www.edudemic.com/social-media-education/">http://www.edudemic.com/social-media-education/</a></li>
+<li>Lad, H. (2017). The Positive and Negative Impact of Social Media on “Education, Teenagers, Business and Society”. Retrieved from <a href="https://www.ijirset.com/upload/2017/october/72_THE.pdf">https://www.ijirset.com/upload/2017/october/72_THE.pdf</a></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[RLV Log4]]></title>
+    <link href="christmast.github.io/15392725428306.html"/>
+    <updated>2018-10-11T23:42:22+08:00</updated>
+    <id>christmast.github.io/15392725428306.html</id>
+    <content type="html"><![CDATA[
+<h2 id="toc_0">Material:</h2>
+
+<p>The Economist 2018-09-21 (E-cigarettes are almost certainly better than smoking )</p>
+
+<h2 id="toc_1">What I did</h2>
+
+<ol>
+<li>Read through the articles. </li>
+<li>Get the main idea and basic structure. </li>
+<li>Read again to find out the new words. </li>
+<li>Compose a mind map.</li>
+<li>Upload new words to Anki (for future reviews).</li>
+<li>Try to imitate one or two sentences and use new words to write a sentence to consolidate them.</li>
+</ol>
+
+<h2 id="toc_2">What I learned/Reflection</h2>
+
+<h2 id="toc_3">Outline<img src="https://lh3.googleusercontent.com/-u4PXUHbMnyE/W793UOrnTQI/AAAAAAAAEjc/CeLeo6deOtY5UQMmSs7t84dD6NZhfpNRACHMYCw/I/%255BUNSET%255D" alt="屏幕快照 2"/></h2>
+
+<h3 id="toc_4">Words:</h3>
+
+<p><img src="https://lh3.googleusercontent.com/-f9mKC1rbnvQ/W793X86g_iI/AAAAAAAAEjg/Xv9i7Y43rzMF94wsRHHyMP55Ntn1QSyxgCHMYCw/I/%255BUNSET%255D" alt="屏幕快照 3"/></p>
+
+<p>[The dictionary source is Longman]<br/>
+1.endorse /ɪnˈdɔːs $ -ɔːrs/ v.<br/>
+<strong>SYN</strong>:support<br/>
+<strong>Def</strong>: to express formal support or approval for someone or something<br/>
+<strong>Original sentence</strong>: There are plenty of officially _endorsed _methods for quitting.<br/>
+<strong>Imitation</strong>: As a member of this party, I shall endorse whatever our leaders say, or otherwise I will be kicked out.</p>
+
+<p>2.sanction /ˈsæŋkʃən/  n.<br/>
+<strong>SYN</strong>: punishment<br/>
+<strong>Def</strong>: a form of punishment that can be used if someone disobeys a rule or law<br/>
+<strong>Original sentence</strong>: Earlier this month it put e-cigarette firms on notice that they must try to combat underage use of their products or face sanction. <br/>
+<strong>Imitation</strong>: China had bravely fought back facing trade sanctions imposed by America.</p>
+
+<p>3.skew  /skjuː/ v.<br/>
+<strong>Def</strong>: if something skews the results of a test etc, it affects them, making them incorrect<br/>
+<strong>Original sentence</strong>: All sorts of confounding factors and overlooked connections can skew conclusions.<br/>
+<strong>Imitation</strong>: Suddenly, lots of animals rushed in, skewing the figures we are studying on.</p>
+
+<h2 id="toc_5">Phrase</h2>
+
+<p>1.borne out <br/>
+<strong>SYN</strong>: support<br/>
+<strong>Def</strong>: if facts or information bear out a claim, story, opinion etc, they help to prove that it is true<br/>
+<strong>Original sentence</strong>: But, says Dr West, these concerns have not yet been borne out by epidemiological studies.<br/>
+<strong>Imitation</strong>: Although numerous people claimed they had prove the Riemann Hypothesis, none of the proof of whom have been borne out valid.</p>
+
+<h2 id="toc_6">Sentence</h2>
+
+<p>1.Nitrosamines, a carcinogenic family of chemicals, have been found in e-cigarette vapour, albeit at levels low enough to be deemed insignificant. Metallic</p>
+
+<p>Translation: 尽管含量少到非常不明显，一种致癌物亚硝胺仍然在电子烟中被发现。</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Grammar Reflection 1 (Week 5)]]></title>
+    <link href="christmast.github.io/15370867789781.html"/>
+    <updated>2018-09-16T16:32:58+08:00</updated>
+    <id>christmast.github.io/15370867789781.html</id>
+    <content type="html"><![CDATA[
+<h2 id="toc_0">Word Choices</h2>
+
+<p><strong>Examples</strong>:</p>
+
+<table>
+<thead>
+<tr>
+<th>Sentence with error</th>
+<th>Corrected sentence</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>people often have diverse opinions considering its effects</td>
+<td>people often have opposing opinions considering its effects</td>
+</tr>
+<tr>
+<td>the most common mean of socializing is using applications designed for familiar individuals</td>
+<td>the most common mean of socializing is using applications designed for individuals who are familiar with each other</td>
+</tr>
+<tr>
+<td>Singapore has kept a dense atmosphere of Chinese customs</td>
+<td>Singapore has kept a great atmosphere of Chinese customs</td>
+</tr>
+</tbody>
+</table>
+
+<p>This is the most common error I made over the past few weeks. Paraphrasing is one of the most important skills to express ideas, since nobody is willing to read an article fulfilled with the same words. However, it will be foolish to use incorrect words or collocations that do not even exist. Thus, to ensure I have used the correct words or expressions that can clearly convey my opinions, I will search particular words or phrases I want to use and check out some examples. In this way, correct words will be used instead of rigid translation from Chinese.</p>
+
+<h2 id="toc_1">Sticking to the topic</h2>
+
+<p><strong>Examples</strong>: Monday paragraph writing<br/>
+Though it is technically not a grammar mistake, it is a worth-mentioning critical mistake I make sometimes. I am currently a college student who strive hard to write academic articles. Thus, using references instead of my own opinions becomes extremely crucial. Nonetheless, essays in China are composed based on one&#39;s own knowledge and analysis. Thereby, I sometimes will stray away from my initial topic, the result of which is severe. Right now, I try to use examples I find to support my idea instead of my own &quot;splendid theories&quot;</p>
+
+<h2 id="toc_2">Other grammar mistakes</h2>
+
+<p>There are of course other mistakes I made in assignments like tense and punctuation. However, the frequency is not so high, especially compared to mistakes on wrong word choices. Still, while improving my ability to choose corrects words that fit in with the context., I will stay cautious about these mistakes.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Compare and Contrast Essay]]></title>
+    <link href="christmast.github.io/15370126580570.html"/>
+    <updated>2018-09-15T19:57:38+08:00</updated>
+    <id>christmast.github.io/15370126580570.html</id>
+    <content type="html"><![CDATA[
+<p>According to Merriam Webster, culture is the collection of traditions, values or social activities related to certain fields or particular societies. With the majority of citizens being Chinese, Singapore, a tiny yet developed country, has cultures blended with numerous Chinese elements. Meanwhile, being influenced by various ethnic groups, Singapore has found its own way of forming its unique culture with discrepancies between it and China.<br/>
+While Singaporean and Chinese cultures both have acceptance of Chinese festivals, there are significant differences in terms of their time spent with families and senses of security.</p>
+
+<p>To start with, Singapore has kept a great atmosphere of Chinese customs, especially Chinese festivals. For instance, during the most famous and momentous Chinese New Year Festival, Chinese will decorate their streets and houses for celebrating the occasion. Likewise, some lion dance troupes can be seen in Singapore with Singapore drums to accompany the performance (Tan, n.a). Additionally, the essence of the core values of Chinese festivals has not changed like family getting together on Mid-Autumn Festivals. This reflects both countries have respects to traditional Chinese festivals and their homogeneous inner cores. Thus it is not surprising for Chinese to find cultural affinity in Singapore (Charissa Yong, 2016). To sum up, Singapore has shown an amazing correspondence with China in celebrating Chinese festivals with acceptance of the internal values.</p>
+
+<p>Nonetheless, although family reunion on festival has implied the great importance Singaporeans and Chinese attached to family, the ways and time they spent with families are not the same. According to a survey done by Channel NewsAsia’s (2016), the significance of family ranked highly among Singaporeans. However, Singapore is a developed country with intense competitions in companies and academies. Thereby to  excel in academic or work fields, both students and employees should work hard to meet the requirements, the result of which is less time spent with family. Only half of the respondents said they spend more than 36 hours a week with their families according to Tho Ee Mine’s survey(2016). A typical phenomenon is Singaporeans tend to eat dinner separately, unlike Chinese eating together on one table as a family. Therefore, yet both Chinese and Singaporeans emphasize strongly on family, certain distinction exists in terms of time spent with family.</p>
+
+<!--https://books.google.com.sg/books?id=VSeJAAAAQBAJ&pg=PA97&dq=Huang+Na&hl=zh-CN&sa=X&ved=0ahUKEwj-l9flzr7dAhWMO48KHf2UBaMQ6AEIODAC#v=onepage&q=Huang%20Na&f=false-->
+
+<p>Apart from family time, another disparity between two countries’ cultures can be identified from senses of security.  It is uncommon to see one serious case related to personal security in Singapore for the reason Singaporeans highly value safeness of themselves as well as others. In every aspect, safety is inviolable in Singapore. Hence Singaporeans would find it astonishing and sorrowful hearing the grievous news of Huang Na’s murder (Futt, 2013). Situations are different in China, where concepts of security in different regions vary a a lot with different education and economic conditions. Most of time, having a stable occupation to earn a living is the most critical security in a Chinese citizen&#39;s mind. Correspondingly, awareness of personal security is not as strong as Singaporeans. In short, senses of security differ greatly between Chinese and Singaporeans due to disparate concepts of security.  </p>
+
+<p>In conclusion, characteristic traits exist in both Chinese and Singaporean cultures. Some like festival celebrations are similar, some like family time and  safety conceptions are not. There is no superior one between these two cultures since two countries all seek their own culture path towards a better society. Respect must be reserved regarding the resemblance and distinction so as to consider them objectively.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[RLV Log3]]></title>
+    <link href="christmast.github.io/15364956903510.html"/>
+    <updated>2018-09-09T20:21:30+08:00</updated>
+    <id>christmast.github.io/15364956903510.html</id>
+    <content type="html"><![CDATA[
+<h2 id="toc_0">Material:</h2>
+
+<p>The Tyranny of Convenience- The New York Times</p>
+
+<p>URL: <br/>
+<a href="https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html">https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html</a><br/>
+<img src="https://lh3.googleusercontent.com/-9MQZkQhDnxk/W5UynmxYK9I/AAAAAAAACkA/AnkltELx5ZEra1jHbzmPJjvVJZ0NREAjACHMYCw/I/15364962276020.jpg" alt=""/></p>
+
+<h2 id="toc_1">What I did</h2>
+
+<ol>
+<li>Read through the articles. </li>
+<li>Get the main idea and basic structure. </li>
+<li>Read again to find out the new words. </li>
+<li>Compose a mind map.</li>
+<li>Write a brief summary.</li>
+<li>Upload new words to Anki (for future reviews).</li>
+<li>Try to imitate one or two sentences and use new words to write a sentence to consolidate them.</li>
+</ol>
+
+<h2 id="toc_2">What I learned/Reflection</h2>
+
+<h3 id="toc_3">Why I chose this article:</h3>
+
+<p>Originally I saw the translated version of this article on a platform called &quot;One Piece&quot; which I found valuable. Thus I trace back and find the original version on The New York Times and chose it as the material for RLV Logs.</p>
+
+<h3 id="toc_4">Summary of the articles:</h3>
+
+<p><img src="https://lh3.googleusercontent.com/-qiA_VHfSLXM/W5UyoSwm0SI/AAAAAAAACkE/lHbn9-mWAzALDnE7lsmqy1Ld7_Admc7lgCHMYCw/I/%255BUNSET%255D" alt="屏幕快照 4"/><br/>
+As an incentive for human determination, convenience offers people with more efficient and relaxed method of coping tasks. Bearing &quot;saving-the-efforts&quot; in mind, humans are unconsciously driven by convenience. The revolution of convenience can be traced back in the 20th century when machine helped a lot in saving labor force. However some people resisted it because of the need of self-expression and thereby continued growing their vegetables. Then the second revolution which saw the potential of customization came. Numerous services for individualization came to the market, making self-expression inevitably homogeneous. Struggles may seem trivial in the era of convenience, but they provide individuals with the answer of who they are. In conclusion, while enjoying the convenience multiple tools bring about, one shall never forget the joy of doing something slowly yet happily in those &quot;inconvenient&quot; ways.</p>
+
+<h3 id="toc_5">Words:</h3>
+
+<p><img src="https://lh3.googleusercontent.com/-D4coezXTZRY/W5Uyo1_RCAI/AAAAAAAACkI/eFgriTo3qWcRQ2peu1YLS8dFZvRMmWkmQCHMYCw/I/%255BUNSET%255D" alt="屏幕快照 6"/></p>
+
+<p><a href="https://ankiweb.net/shared/info/335330477">To view full Anki deck</a></p>
+
+<p>[The dictionary source are Eudic and Longman]<br/>
+1.beget   /bɪˈɡet/  v<br/>
+<strong>Def</strong>: to cause something or make it happen<br/>
+<strong>SYN</strong>: produce<br/>
+<strong>Original sentence</strong>: Yet our taste for convenience begets more convenience, through a combination of the economics of scale and the power of habit.<br/>
+<strong>Imitation</strong>: It is quite natural to have transformations on teenagers&#39; body since it is the phase of time when hormones beget growth of physical bodies.</p>
+
+<p>2.onerous    /ˈɒnərəs, ˈəʊ- $ ˈɑː-, ˈoʊ-/ adj<br/>
+<strong>Def</strong>: work or a responsibility that is onerous is difficult and worrying or makes you tired <br/>
+<strong>SYN</strong>: burdensome<br/>
+<strong>Original sentence</strong>: On the contrary, it often opens up possibilities that once seemed too onerous to contemplate<br/>
+<strong>Imitation</strong>: Although English assignments may seem onerous, they are extremely helpful in making progress in English :).</p>
+
+<p>3.perverse /pəˈvɜːs $ pərˈvɜːrs/ adj<br/>
+<strong>Def</strong>: behaving in an unreasonable way, especially by deliberately doing the opposite of what people want you to do<br/>
+<strong>SYN</strong>: bizarre<br/>
+<strong>Original sentence</strong>: It would be perverse to embrace inconvenience as a general rule. But when we let convenience decide everything, we surrender too much.<br/>
+<strong>Imitation</strong>: What is perverse is that when Apple released the iPhone X, numerous people felt &quot;disgusted&quot; seeing the notch. But later, they accepted that silently and start using upcoming imitators of that masterpiece.</p>
+
+<p>4.emancipate  /ɪˈmænsəpeɪt/ v<br/>
+<strong>Def</strong>: formal to give someone the political or legal rights that they did not have before<br/>
+<strong>SYN</strong>: free<br/>
+<strong>Original sentence</strong>: Do we really want to be emancipated from all of it?<br/>
+<strong>Imitation</strong>: How long shall we wait until voice input can finally have the accuracy and speed to emancipate us from keyboard typing?</p>
+
+<h3 id="toc_6">Phrases and Expressions:</h3>
+
+<p>1.exert pressure on<br/>
+ <strong>Similar Expression</strong>: put pressure on <br/>
+<strong>Original sentence</strong>: As task after task becomes easier, the growing expectation of convenience exerts a pressure on everything else to be easy or get left behind.<br/>
+<strong>Imitation</strong>: When pressure exerted by parents finally disappears for students study abroad, they might feel uncomfortable facing the &quot;totally-free&quot; lifestyle.</p>
+
+<p>2.confer...on...<br/>
+ <strong>Similar Expression</strong>: give...to... <br/>
+<strong>Original sentence</strong>:They conferred efficiency on self-expression.<br/>
+<strong>Imitation</strong>: The extraordinary geographic location conferred unimaginable advantages on American&#39;s land preserving.</p>
+
+<p>3.reside in<br/>
+ <strong>Similar Expression</strong>: lie in<br/>
+  <strong>Original sentence</strong>:Nowadays individuality has come to reside in making at least some inconvenient choices.<br/>
+  <strong>Imitation</strong>: Inspirations don&#39;t reside merely in academic knowledge, but also ability to seek problems.</p>
+
+<p>4.strip of<br/>
+  <strong>Def</strong>: to take away something important from someone as a punishment, for example their title, property, or power<br/>
+   <strong>Similar Expression</strong>: deprive of<br/>
+  <strong>Original sentence</strong>:Its format and conventions strip us of all but the most superficial expressions of individuality<br/>
+  <strong>Imitation</strong>: Lack of economic support for education, kids from impoverished families are naturally stripped of privilege of advance studying.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The explanatory synthesis essay]]></title>
+    <link href="christmast.github.io/15361531651660.html"/>
+    <updated>2018-09-05T21:12:45+08:00</updated>
+    <id>christmast.github.io/15361531651660.html</id>
+    <content type="html"><![CDATA[
+<p>Recently, the problem of ocean acidification has aroused people&#39;s concern. The issue raised by human&#39;s industrialization has profound impacts on the ecosystem. Two articles from The Economist and Alex Renton discuss about the origins and effects of ocean acidification. Since factories produced massive carbon dioxide into the atmosphere, oceans will irrevocably absorb them with results including both positive and negative influence on the world as a whole.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Adjusting to Singapore]]></title>
+    <link href="christmast.github.io/15358124901021.html"/>
+    <updated>2018-09-01T22:34:50+08:00</updated>
+    <id>christmast.github.io/15358124901021.html</id>
+    <content type="html"><![CDATA[
+<p>A month! Without awareness of how time flies, I&#39;ve spent a month in this city. Countless fresh new things emerged before my eyes within this month and I&#39;ve strived hard to try to get used to them. Surprisingly, I can find similarity among most of unfamiliar features of Singapore: a sense of discipline.</p>
+
+<p>Discipline doesn&#39;t necessarily have to be rules which must be strictly followed, but also united concepts or recognition planted in every citizen&#39;s mind. Queuing up consciously, lining up at the left hand side of escalators, banning drinking water on transportation means and be punctual are all representatives of obeying rules. It is because Singaporeans are willing to follow rules that they tend to be well-organized and efficient at dealing with tasks.</p>
+
+<p>Being inspired by their rule consciousness, I gradually adopt some new methods for self scheduling. Except time for lectures and classes, SM2 scholars actually have plenty of time to arrange freely. Daily, weekly to monthly goals have been set. Thus simply following the plan is all I need to do, which is crucial to having sense of safety and clam coping upcoming events. After sticking to the plans for a few weeks, things I felt reluctant to do like working out become the default options for me. This is the magic of discipline.</p>
+
+<p>Yet I cannot say I&#39;m fully adjusted to Singapore lifestyle. As a matter of fact, I never will in this dynamic country. From glimpse of the breathtaking image of multitudinous cargo ships when I was in Labrador Park and the splendid scenery seen from Marina Bay Sands, I can sense the pulsation of this vigorous country. Beneath those spectacular landscapes, numerous opportunities for progress await.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Research: Positive attitude and peace of mind]]></title>
+    <link href="christmast.github.io/15352914933223.html"/>
+    <updated>2018-08-26T21:51:33+08:00</updated>
+    <id>christmast.github.io/15352914933223.html</id>
+    <content type="html"><![CDATA[
+<h2 id="toc_0">Secondary research:</h2>
+
+<h4 id="toc_1">11 Ways To Keep A Positive Attitude At Work, So You Don&#39;t Have To Feel Miserable:</h4>
+
+<p>URL: <a href="https://www.bustle.com/articles/154739-11-ways-to-keep-a-positive-attitude-at-work-so-you-dont-have-to-feel-miserable">https://www.bustle.com/articles/154739-11-ways-to-keep-a-positive-attitude-at-work-so-you-dont-have-to-feel-miserable</a><br/>
+{Solution}: 11 ways</p>
+
+<ol>
+<li>befriend with your teammates.</li>
+<li>tune out</li>
+<li>take breaks</li>
+<li> Deal With Problems Professionally</li>
+<li>Leave For Lunch</li>
+<li>Set Goals For Yourself</li>
+<li>Do Something Nice</li>
+<li>Take The Time To Be Grateful</li>
+<li>Keep Visual Reminders</li>
+<li>Get Good Sleep</li>
+<li>Smile</li>
+</ol>
+
+<h4 id="toc_2">Studying with a positive attitude</h4>
+
+<p>{Origin}: &quot;Enjoy&quot; life<br/>
+{Significance}: Education can shape one in a either positive or negative way depends on pupils themselves.<br/>
+URL:<a href="https://nation.com.pk/01-Jan-2016/studying-with-a-positive-attitude?show=previewutm_medium=Politic">https://nation.com.pk/01-Jan-2016/studying-with-a-positive-attitude?show=previewutm_medium=Politic</a></p>
+
+<p>In these days studying is considered as a trouble by majority of young students, as they only want to enjoy their lives and consider study to be unimportant. Our younger generation has taken everything for granted and do not hold high value for education in their minds.<br/>
+Whenever the time comes to study, a student’s mood sinks down and all the energy vanishes. This results in more time being consumed in learning that work due to lesser concentration. This issue needs to be addressed by parents and teachers in a productive manner, not simply forcing their children to more hours of studying or getting tuition after schools.<br/>
+There should be some counseling in a way that explains to children that studying is one of the natural things to do in this world, as education makes a man, so can the lack of education break a man. They should be told that if studying is compulsory and necessary then why not do it with an enthusiasm similar to playing sports or performing some other activities and hobbies.</p>
+
+<h4 id="toc_3">Positive Attitude, Positive Mind</h4>
+
+<p>URL: <a href="https://www.wholebeing-wellbeing.com/positive-attitude-positive-mind/">https://www.wholebeing-wellbeing.com/positive-attitude-positive-mind/</a></p>
+
+<p>{Origin of negativeness}: Pressure<br/>
+{Symptoms of negativeness__}: Depressed<br/>
+{Solutions}: Work out or simply go out, meditation or other means of relax and re-prioritize tasks</p>
+
+<blockquote>
+<p>Re-evaluate priorities – what is important right now and what can be delayed?<br/>
+Go for a walk – even some exercise is better than none and it gives you a chance to think, contemplate, or just be.<br/>
+Daily quiet time – take ten to twenty minutes to unwind, relax, meditate or have a bath, with no interruptions from the phone, TV, kids or family.<br/>
+Have fun – make sure to incorporate some fun time into your life – go out with friends, catch a movie, play sport or do a hobby.</p>
+</blockquote>
+
+<p>{Effects}: Better Marriage, income, relationship and physical body.</p>
+
+<blockquote>
+<p>Marital/relationship satisfaction<br/>
+Higher incomes<br/>
+Friendship/social development, and<br/>
+Better physical health.</p>
+</blockquote>
+
+<h4 id="toc_4">Positive Attitude Leads to Positive Thinking and Positive Calm.</h4>
+
+<p>URL: <a href="http://www.positivecalm.com/positive-thinking-attitude/">http://www.positivecalm.com/positive-thinking-attitude/</a></p>
+
+<p>{Origin}: lack of motivation of action</p>
+
+<blockquote>
+<p>The average person will not make any effort to do the change required in order to change their &#39;sad&#39; circumstances, and so they better complain and moan about all the unjust in the world and how they are the victims of everything that happens to them.</p>
+</blockquote>
+
+<p>{Solution}: Think about what you want to appreciate for</p>
+
+<blockquote>
+<p>Every morning when you wake up think of 5 reasons to be grateful for… Why in the morning?The morning is the most difficult time to get you into a mood of thinking positive, it will uplift your mood immediately and you will start a day with a positive state of mind. <br/>
+Same for the night</p>
+</blockquote>
+
+<p>{Effects}: Positive attitude will make you take actions and do something, which will improve your life.</p>
+
+<h4 id="toc_5">How to Achieve Positive Attitude, Peace of Mind</h4>
+
+<p>URL: <a href="https://naplesneighbors.wordpress.com/2017/05/10/how-to-achieve-positive-attitude-peace-of-mind/">https://naplesneighbors.wordpress.com/2017/05/10/how-to-achieve-positive-attitude-peace-of-mind/</a></p>
+
+<p>{Solution}:</p>
+
+<ol>
+<li>Monitor your thoughts. Mind is like a garden where thoughts can be beautiful flowers or garden weeds. Thoughts are energy, the energy tends to transform in material things. Use this to your advantage – encourage positive thinking. Slowly begin to substitute negative thoughts with more optimistic ones. Stop worrying. We have 30,000-75,000 thoughts per day, most of them are nonproductive, worrying thoughts. If the thoughts don’t improve our state of mind, get rid of them.</li>
+<li>Be mindful. Live in the moment. Pay attention and enjoy the experiences you have right this moment.</li>
+<li>Always strive to be a good person, do the right thing. Be helpful.</li>
+<li>Have a sense of humor. Laughter is a great stress reducer. Be playful, don’t take yourself too seriously.</li>
+<li>Take care of your health: eat right, exercise.</li>
+<li>Slow down. Take time to plan your actions. Stop making decisions on autopilot. Take all the decision that you make automatically and reevaluate your actions, there may be a better solution.</li>
+<li>Connect with others.</li>
+<li>Be thankful for the good things in your life.</li>
+<li>Have goals; know where you are headed.</li>
+<li>Evaluate once a year your positions. Are you happy with your job? Are you happy with your relationships? Make adjustments- fix it or let it go.</li>
+</ol>
+
+<h4 id="toc_6">Positive Attitude Is a State of Mind You Can Adopt</h4>
+
+<p>URL: <a href="https://www.successconsciousness.com/positive_attitude_thinking.htm">https://www.successconsciousness.com/positive_attitude_thinking.htm</a></p>
+
+<p>{Symptom of positiveness}:</p>
+
+<blockquote>
+<p>People with a positive frame of mind think about possibilities, growth, expansion and success. They expect happiness, health, love and good relationships. They think in terms of,<br/>
+&#39;I can&#39;<br/>
+&#39;I am able&#39;<br/>
+&#39;I will succeed&#39;.<br/>
+People with a positive attitude are not daunted by failures and obstacles. If things don&#39;t turn out well or as expected, they will try again. They approach what they do with a positive thinking frame of mind.</p>
+</blockquote>
+
+<p>{Solution}:</p>
+
+<blockquote>
+<ol>
+<li>Read inspiring and motivating stories about people who achieved success. This will inspire and motivate you, as well as show you what they actually did, so you can implement it in your life.</li>
+<li>Use affirmations. These positive statements will sink into your subconscious mind, which in turn will guide, motivate, and inspire you to tale action.</li>
+<li>This also applies to visualization, the creation of mental scenes of what you want to achieve or have.</li>
+<li>You don&#39;t have to allow negative thoughts to thrive in your mind. You can put an end to this habit. Be on guard to replace you negative thoughts with constructive ones. Start paying attention to your thoughts, and as negative thoughts start circulating in your mind, calmly, and without using force, replace them with constructive, happy and positive thoughts. You can make great changes in your life if you play the role of the doorkeeper of your mind.</li>
+<li>Take action, don&#39;t be passive, in small matters and in big ones. If you keep busy doing things, there will be less likelihood of becoming negative, and a greater likelihood of being positive.</li>
+</ol>
+</blockquote>
+
+<h4 id="toc_7">The Power of Positive Thinking</h4>
+
+<p>URL: <a href="http://www.self-realization.com/articles/the_power_of_positive_thinking.htm">http://www.self-realization.com/articles/the_power_of_positive_thinking.htm</a></p>
+
+<p>{Statistics}:</p>
+
+<blockquote>
+<p>More and more people (including Doctors and Scientists) are turning to positive thinking because it is a powerful tool for transforming your inner self into an amazing health generating, and self-healing entity. Optimistic people have discovered that the human mind has the power to turn wishes into reality through positive thinking. Researchers continue to find increasing evidence pointing to the many benefits of positive thinking. According to a Stanford Research Institute study - success is 88 percent positive thinking, and only 12 percent education. Therefore, positive thinking is an important factor in your ability to succeed in life.</p>
+</blockquote>
+
+<p>{Definition (unofficial)}: </p>
+
+<blockquote>
+<p>Positive thinking is an optimistic state of mind that always sees the bright side of life and focuses on the glass being half full instead of half empty.</p>
+</blockquote>
+
+<p>{How positive attitude works to help}:</p>
+
+<blockquote>
+<p>According to psychology our mind controls our body. You can tap this capability by following a few simple steps. Each person is capable of programming their own mind to achieve what they desire. By learning to direct your thinking, you can change the way you behave and achieve a positive mindset. With a positive mindset, you always expect more joy, happiness, better health, greater success which also helps you reduce your stress levels. Basically, whatever your mind thinks and believes is what you expect. Anticipate positive situations and you&#39;ll get positive outcomes. So, taking charge of your mind becomes a vital factor in keeping your body healthy. You can do this through affirmations and by consciously relaxing your mind through meditation.</p>
+</blockquote>
+
+<p>{Solution}:</p>
+
+<blockquote>
+<ol>
+<li>Smile and Laugh - It has been scientifically proven that smiling can improve your overall mood and outlook in life. Laughter is the best medicine and they aren&#39;t lying. Join a Yoga laughter club for group support for laughing and Meditation practice for calming the Mind, Body and the Soul.</li>
+<li>Help others unselfishly - Focus on helping others by donating your time, wisdom, and money.</li>
+<li>Eliminate your ego - Human ego is a dangerous thing since it makes people criticize and judge others.</li>
+<li>Gratitude - Being grateful improves your chances of becoming more happy and content in your life. By being thankful for what you have, you will achieve true happiness.</li>
+<li>Set goals - Set your goals daily on a piece of paper and plan out your priorities from the top to bottom. Having goals will provide the drive and motivation you need to become happy and successful in life.</li>
+<li>Train your mind to focus on more positive thoughts - Replace negative with a positive thoughts and also take positive action.</li>
+<li>Surround yourself with positive people - Hang out with people who have a positive attitude and outlook on life.</li>
+<li>Be persistent and find the positive in all situations - Make positive thinking a daily habit and way of life.</li>
+<li>Work Out &amp; Eat Right - Eating healthy and working out will keep you in a great state of being and help maintain an active mind. Go for a long walk, run, or go to the gym. Also include Yoga, Meditation and Pranayam in your daily routine.</li>
+<li>Listen to your favorite music.</li>
+</ol>
+</blockquote>
+
+<p>{Health Benefits of Positive Thinking}:</p>
+
+<blockquote>
+<p>· Lower stress levels;<br/>
+· Improve your body&#39;s immune system;<br/>
+· Make you more resilient and to develop the ability to overcome life&#39;s difficulties;<br/>
+· Bring more happiness and respect from other people;<br/>
+· Increase your life span;<br/>
+· Create greater inner power and strength to inspire and motivate yourself and others; and<br/>
+· Reduce depression.</p>
+</blockquote>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[RLV Log2]]></title>
+    <link href="christmast.github.io/15352226610791.html"/>
+    <updated>2018-08-26T02:44:21+08:00</updated>
+    <id>christmast.github.io/15352226610791.html</id>
+    <content type="html"><![CDATA[
+<h2 id="toc_0">Material:</h2>
+
+<p>TED- The rapid growth of the Chines internet and where it is headed</p>
+
+<p>URL: <a href="https://www.ted.com/talks/gary_liu_the_rapid_growth_of_the_chinese_internet_and_where_it_s_headed/transcript">https://www.ted.com/talks/gary_liu_the_rapid_growth_of_the_chinese_internet_and_where_it_s_headed/transcript</a>?<br/>
+<img src="https://lh3.googleusercontent.com/-cZAFVqkimFM/W4ISHRUtF8I/AAAAAAAACec/vDKPM43aRVgtmov1pKCSMFy07jVWNV7KgCHMYCw/I/%255BUNSET%255D" alt="屏幕快照 1"/></p>
+
+<h2 id="toc_1">What I did:</h2>
+
+<ol>
+<li>Listen to the speech three times with different purposes.</li>
+<li>Find out the new words and make them into Anki cards.</li>
+<li>Map out the mind map</li>
+<li>Listen again and find out great sentences.</li>
+<li>Compose sentences using new words.</li>
+<li>Write a summary</li>
+<li>Write a review.</li>
+</ol>
+
+<h2 id="toc_2">Summary:</h2>
+
+<p><img src="https://lh3.googleusercontent.com/-Ofp_I13ROYQ/W4ISH5a8tVI/AAAAAAAACeg/_XdscGA_QgYpud8v20MW59d_-9dHyOa3QCHMYCw/I/%255BUNSET%255D" alt="屏幕快照"/></p>
+
+<p>Chinese Internet market has unimaginable potential waiting to discover due to its massive number of population and governments supports. However, beside economic effects, the Internet can also bring prominent social impacts in two ways. Firstly, the booming of Internet creates millions of jobs that can&#39;t be even imagined before thanks to the fast and vast connection across the country provided by webs. Additionally, network makes online education easier than ever before. Thus students from rural areas can also witness the splendid word and be educated by great teachers. In conclusion,  the growing network infrastructure construction has really benefit billions of citizens which incents us to continue putting in capital and effort to make it step further. </p>
+
+<h2 id="toc_3">Words:</h2>
+
+<p><img src="https://lh3.googleusercontent.com/-DTwh7S2sJxw/W4ISIfrdAmI/AAAAAAAACek/qWdMPKo-6Bos0HMJNWOpyF2Ar9u1OKXlgCHMYCw/I/IMG_2049.jpg" alt="IMG_2049"/></p>
+
+<ol>
+<li><p>incentive  /ɪnˈsentɪv/ n<br/>
+<strong>Origin</strong>: The world&#39;s largest pool of tech talent exists because of the abundance of educational incentives.<br/>
+<strong>Def</strong>: something that encourages you to work harder, start a new activity etc <br/>
+<strong>Example</strong>: As an added incentive, there’s a bottle of champagne for the best team.<br/>
+<strong>Synonym</strong>: motivation<br/>
+<strong>Sentence Imitation</strong>: Sometimes a warm coffee or a snug hug is the best incentive even compared to money.</p></li>
+<li><p>censorship  /ˈsensəʃɪp $ -ər-/ n<br/>
+<strong>Origin</strong>: Of course you cannot observe the Chinese internet without widespread censorship and very serious concerns about dystopian monitoring.<br/>
+<strong>Def</strong>: the practice or system of censoring something<br/>
+<strong>Sentence Imitation</strong>: Without censorship from teachers or parents, students lack self-control will easily get lost in the virtual world of games.</p></li>
+<li><p>irrevocable /ɪˈrevəkəbəl/ adj    <strong>Origin</strong>: As the Chinese internet continues to grow even in its imperfection and restrictions and controls, the lives of its once-forgotten populations have been irrevocably elevated<br/>
+<strong>Def</strong>: an irrevocable decision, action etc cannot be changed or stopped<br/>
+ <strong>Sentence Imitation</strong>: Come on! Since you are going to working out, soaking your T-shirt is irrevocable!</p>
+<h2 id="toc_4">Sentences:</h2></li>
+</ol>
+
+<p>1.It is an overwhelming need economy that is serving an underprivileged population, which has been separated for 30 years from China&#39;s economic boom.</p>
+
+<p>Translation: 这是一个为弱势群体服务的巨大需求经济，却被中国经济繁荣的30年排除在外。</p>
+
+<p>2.Wherever this alternative fuel exists, be it in China or Africa, Southeast Asia or American heartland. We should endeavor to follow it with capital and with effort, driving both economic and societal impact all over the world.</p>
+
+<p>Translation:  无论这种替代方式存在于何处，在中国或者非洲，东南亚或者美国心脏地带。我们应该用资本和努力来实现这一目标，驱动全球经济和社会影响。</p>
+
+<h2 id="toc_5">Review and thinking:</h2>
+
+<p>China nowadays has increasingly significant status in the international network system. The most apparent reason is China is a country with 1.4 billion citizens. Therefore, even a tiny origin can stir a mass disturbance on the Internet which can be either positive or negative. Thus countless opportunities can be found in the phase when China is developing. However, instead of merely emphasize on how enormous Chinese Internet marketplace is. The speech stressed more on the facility the Internet can offer to those impecunious families with more alternatives. The Internet is offering billions of people with plentiful work positions as well as more advanced education within the speed of life. For those who came from metropolises, accessing to the Internet may be a rather easy task. Nevertheless, their ease may never be reachable for unprivileged individuals, speaking of which Chinese government&#39;s effort must be noticed. Their controversial policy of manipulating the overall internet environment definitely will have negative impacts on certain developments of the network. But on the other hand, the special policy also prevents Chinese companies being crushed by international network companies which can subsequently lead to better and more stable occupations offered to people, especially those from poor backgrounds. Moreover, since the Chinese government has so much power compared to another country, it can implement massive measures to optimize the Internet infrastructures. With the endeavor of government, there is a growing number of Chinese citizens who are connected to the Internet. Thus, generally speaking, I think a more positive future of Chinese Internet and its significant impacts on individuals can be sighted.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Summary of "Power Learning Strategies for Success in College and Life"]]></title>
+    <link href="christmast.github.io/15351937504997.html"/>
+    <updated>2018-08-25T18:42:30+08:00</updated>
+    <id>christmast.github.io/15351937504997.html</id>
+    <content type="html"><![CDATA[
+<p>In the article &quot;Power Learning Strategies for Success in College and Life,&quot; Feldman notes that, our memory works better with links to what we have formerly known. Firstly, recollection of existing experience can make memorizing fresh notions effortlessly. Secondly, coupling the knowledge with the acquainted scenes is another efficient method of remaining a good retention of the corresponding subject. Furthermore, each individual may adopt distinct means based on his or her unique requirements of mastering information </p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[RLV Log1]]></title>
+    <link href="christmast.github.io/15346968074643.html"/>
+    <updated>2018-08-20T00:40:07+08:00</updated>
+    <id>christmast.github.io/15346968074643.html</id>
+    <content type="html"><![CDATA[
+<h2 id="toc_0">Materials:</h2>
+
+<ol>
+<li>An article from MacStories: &quot;iPhone 3G: 10 Years Later&quot;<br/>
+URL: <a href="https://www.macstories.net/stories/iphone-3g-10-years-later/">https://www.macstories.net/stories/iphone-3g-10-years-later/</a></li>
+<li>The Economist 2018-08-17 (Taming the tiger mother )</li>
+</ol>
+
+<h2 id="toc_1">What I did</h2>
+
+<ol>
+<li>Read through the articles. </li>
+<li>Get the main idea and basic structure. </li>
+<li>Read again to find out the new words. </li>
+<li>Compose a mind map and export to Mindnode5.</li>
+<li>Write a brief summary</li>
+<li>Upload new words to Anki</li>
+<li>Try to imitate one or two sentences and use new words to write a sentence to consolidate them.</li>
+<li> Upload the file with notes to Evernote</li>
+</ol>
+
+<h2 id="toc_2">What I learned/Reflection</h2>
+
+<h2 id="toc_3">(1) iPhone 3G: 10 Years Later</h2>
+
+<h3 id="toc_4">Why I chose this article:</h3>
+
+<p>I am a fan of technology. Therefore reading articles about technology will activate my motivation better compared to other articles.</p>
+
+<h3 id="toc_5">Reflection:</h3>
+
+<p>This is actually a bit easy for me and the structure is apparent to see, although I can learn some words and sentences. Maybe next time I will try a more complex source of technology articles.</p>
+
+<h3 id="toc_6">Summary of the articles:</h3>
+
+<p><img src="https://lh3.googleusercontent.com/-ohMXOvFjB94/W3lz_NLDylI/AAAAAAAACXw/a913dLtX_-0jfexXQTf70VOKdWDTai91ACHMYCw/I/%25255BUNSET%25255D" alt="屏幕快照"/></p>
+
+<p>10 years ago, an astounding work of art and technology came out: iPhone3G. This is a product added with loads of new functions while maintaining the acknowledged features of original iPhone. It provided customers with faster networking, more comfortable feel as well as a more reasonable price. These things together created a legend of selling 1 million iPhone within 1 week. And yet this is only the start of the Apple empire.</p>
+
+<h3 id="toc_7">Words:</h3>
+
+<p><img src="https://lh3.googleusercontent.com/-GGpbtTqyllc/W3lx6gQtniI/AAAAAAAACXU/6I2e783N5SIw_hj2w4-FReje-XB6ZrFcQCHMYCw/I/IMG_2025.png" alt="IMG_2025"/></p>
+
+<p>[The dictionary source are Eudic and Longman]</p>
+
+<p>1.rear /rɪr/ adj<br/>
+<strong>Def</strong>: at or near the back of something, especially a vehicle <br/>
+<strong>Opp</strong>: front<br/>
+<strong>Original sentence</strong>: The rear edges sloped more aggressively toward the screen, making the iPhone 3G feel thinner in the hand, despite being slightly thicker than the original.<br/>
+<strong>Imitation</strong>: The newly released iPhone X&#39;s rear material change back to glass to enable wireless charging.</p>
+
+<p>2.head-on /ˈhɛdˌɑn/ adv<br/>
+<strong>Def</strong>: if someone deals with a problem head-on, they do not try to avoid it, but deal with it in a direct and determined way<br/>
+<strong>Original sentence</strong>: Apple addressed this head-on.<br/>
+<strong>Imitation</strong>: He asserted head-on that their price is fairly reasonable.</p>
+
+<p>3.boast /bost/ v<br/>
+    <strong>Def</strong>:  [intransitive, transitive] to talk too proudly about your abilities, achievements, or possessions<br/>
+    <strong>Original sentence</strong>: In his demos, Jobs boasted that 3G networking was 2-3x faster than EDGE, all of it with best-in-class battery life.<br/>
+    <strong>Imitation</strong>: Boasting in front of the public may not be a wise decision, try to keep low keyed.</p>
+
+<h3 id="toc_8">Phrases and Expressions:</h3>
+
+<ol>
+<li><p>stray far from<br/>
+<strong>Similar Expression</strong>: shift away from<br/>
+<strong>Original sentence</strong>: The iPhone 3G didn&#39;t stray far from the original design of the iPhone.<br/>
+<strong>Imitation</strong>: If you consistently hold a dream and never stray far from it., there won&#39;t anything stopping you from realizing it</p></li>
+<li><p>The biggest cheer regarding... came in regard to<br/>
+<strong>Similar Expression</strong>: The most acknowledge thing about ... is<br/>
+<strong>Original sentence</strong>: The biggest cheer regarding the design came in regards to the headphone jack.<br/>
+<strong>Imitation</strong>: The biggest cheer regarding iPad&#39;s innocation came in regards to 120Hz display.</p></li>
+</ol>
+
+<h2 id="toc_9">(2) Taming the tiger mother (from The Economist)</h2>
+
+<h3 id="toc_10">Why I chose this article:</h3>
+
+<p>As I&#39;ve mentioned before, the MacStories&#39;s article is a bit easy. Thus Economist seems to be a better choice.</p>
+
+<h3 id="toc_11">Reflection:</h3>
+
+<p>The Economist has more complex words that can precisely convey the ideas. Additionally, their writers are all very sophisticated and their sentence structures are extremely natural. So, I think this is one of my greatest choices for English reading.</p>
+
+<h3 id="toc_12">Summary of the articles:</h3>
+
+<p><img src="https://lh3.googleusercontent.com/-jXcrH9-LcvE/W3lz_Yzal5I/AAAAAAAACX0/3wIiiqL-Oi4cObjYUVLcC1alcEgojq_qACHMYCw/I/%25255BUNSET%25255D" alt="屏幕快照 1"/></p>
+
+<p>Nowadays, students in China are suffering from a malformed education system which emphasize heavily on core subjects. Their parents, out of nervousness, will automatically send them to tutoring agencies for extra learnings. Chinese students may excel in tests like PISA, but that is the result of particular emphasis on subjects like math and science. Being exposed to such education system, students have two main problems: excessive homework burden and health issues. Therefore, Ministry of Education released its first &quot;comprehensive learning assessment&quot; to cope with current situation of lacking assessment on general abilities and pupils&#39; overloaded work. This is a well-intentioned policy. However, it still hasn&#39;t touch the root of this phenomenon, namely, the fear of cruel Zhongkao Exam. The next step for Chinese education shall be how to solve that.</p>
+
+<h3 id="toc_13">Words:</h3>
+
+<p><img src="https://lh3.googleusercontent.com/-K3O8eJaUjBE/W3lx8K9tmoI/AAAAAAAACXc/nCqKGdJbiFc5Wl3f9aKxSk8LaObkkMyiQCHMYCw/I/IMG_2027.png" alt="IMG_2027"/></p>
+
+<p>[The dictionary source are Eudic and Longman]</p>
+
+<p>1.tame /teɪm/ v<br/>
+<strong>Def</strong>: to reduce the power or strength of something and prevent it from causing trouble<br/>
+<strong>Original sentence</strong>: Taming the tiger mothers<br/>
+<strong>Imitation</strong>: We&#39;ve successfully captured that bird, but how to tame it?</p>
+
+<p>2.penultimate /peˈnʌltəmət, pə-/ adj<br/>
+<strong>Def</strong>: not the last, but immediately before the last<br/>
+<strong>SYN</strong>: last but one<br/>
+<strong>Original sentence</strong>: The Ministry reckons that nearly one in ten pupils in the penultimate year of primary schools spend more than two hours of Chinese-language homework, every school day.<br/>
+<strong>Imitation</strong>: Mom, you should be thankful that I am not the last one but penultimate one!</p>
+
+<p>3.Shunt /ʃʌnt/ v<br/>
+<strong>Def</strong>: to move someone or something to another place, especially in a way that seems unfair<br/>
+<strong>Original sentence</strong>: The rest are shunted to vocational ones.<br/>
+<strong>Imitation</strong>: It is sad to hear that my dearest friend was shunted to another school.</p>
+
+<h3 id="toc_14">Phrases and Expressions:</h3>
+
+<ol>
+<li><p>steamroller sb into<br/>
+<strong>Similar Expression</strong>: force sb to do sth<br/>
+<strong>Original sentence</strong>: and instead steamroller pupils into attending evening classes at tutoring centers where the teachers moonlight.<br/>
+<strong>Imitation</strong>: When I was a little boy, my mother always steamroller me into practicing the piano which turned out to be one of my best skills.</p></li>
+<li><p>crack down on<br/>
+<strong>Similar Expression</strong>: to impose sanction against<br/>
+<strong>Original sentence</strong>: The ministry is cracking down on rogue pedagogues who refuse to teach academic material in school.<br/>
+<strong>Imitation</strong>: President Xi had cracked down lots of corrupted officers in the government.</p></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[My English goals and study plan for Phase 1]]></title>
+    <link href="christmast.github.io/15346272098003.html"/>
+    <updated>2018-08-19T05:20:09+08:00</updated>
+    <id>christmast.github.io/15346272098003.html</id>
+    <content type="html"><![CDATA[
+<p>Currently, I settle in a city pervaded with English and therefore not only daily communication,  but also academic writing requires me to be proficient in English. My weakness is I sometimes will shift away from the central topic and my word usage is occasionally inaccurate. Thus writing and reading are the main focus for me in phase one. Of course, additionally I will continue practicing my listening and speaking to better fit in the environment. Here are my goals for English studying.</p>
+
+<h2 id="toc_0">Goals:</h2>
+
+<ol>
+<li>Capable of writing sophisticated academic essays. (better structures, word usage and sentence logic)</li>
+<li>Read more English books or articles to get familiar with some common words, phrases and structures. (Including but not limited to TED, Economist and book reading)</li>
+<li>Improve impromptu speech ability (watching speeches and seize every opportunity to present a speech)</li>
+</ol>
+
+<p>Here are some of the measures I will take to make me excel in English.<br/>
+<img src="https://lh3.googleusercontent.com/-q0Kyr3VwKE0/W3jXTIzoJPI/AAAAAAAACXA/hXxE1CIM1ikGINKbHrH8ydKu5FmncH-TACHMYCw/I/Weekly%2BSchedule.png" alt="Weekly Schedule"/></p>
+
+<ol>
+<li>Through experience of mine, I found out that reading is the most efficient way to memorize words because I can naturally recall the sentence from which I can infer the meanings. Therefore I distribute some time for various English reading materials including Economist, tech articles (Macstories) and English books.</li>
+<li>Mere reading is not enough for sure, I need writing to consolidate the words or expressions I recently learn. So I will take English writing assignments seriously. If I have vacant time, I will compose one or two technology reviews and post that on my blog.</li>
+<li>In my opinion, listening and speaking are closely combined. Thus, I will watch some English videos to improve these abilities. As a matter of fact, my listening and speaking are dramatically improved via watching Youtube video without subtitles before I came to Singapore. Besides, I can learn certain speaking structures or words through watching English videos. </li>
+</ol>
+
+<p>Of course, plans above might have minor changes according to the assignment or activities. However, the general goal stays the same: improving my English capability.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[8.15 Summary and Synthesis Assignment 1]]></title>
+    <link href="christmast.github.io/15344514145275.html"/>
+    <updated>2018-08-17T04:30:14+08:00</updated>
+    <id>christmast.github.io/15344514145275.html</id>
+    <content type="html"><![CDATA[
+<h2 id="toc_0">Section A:</h2>
+
+<p>Lack of sleep can have various severe damage to human&#39;s body. Firstly, sleep deficiency can give rise to chaos of chemical distribution and further more to unstable mood. Secondly, short of sleep is part of reasons of workers&#39; inattention which is the main cause of some tragic cases. Similarly, drivers are less likely to focus without sufficient sleep. Lastly, sleep absence caused by fanaticism or overloaded work may result in profound harm on health. Therefore excessive work and school plan should really be altered to ensure basic sleep requirement.</p>
+
+<h2 id="toc_1">Section B:</h2>
+
+<p>Genetically modified food refer to the food whose genes have been changed by the scientists. When it comes to food with altered genes, people often have diverse opinions considering its effects. Firstly, transgenic food must has benefits since scientists develop them with positive intention. Those food can collect superior genes together to prevent themselves from being devastated by pests or herbicides (Food, Genetically Modified, 2014). The added genes can also stimulate the plants to have more nutrition, the result of which is better flavor and quality(Bosch, n.d). Moreover, it can help reserving the limited resource on earth such as water and energy(Bosch, n.d). Nevertheless, such highly controversial products indeed have some demerits. A plausible inference is variations caused by genes transformation might occur. Thus, concerned common sense no longer makes sense facing those food, especially to individuals who are allergic to certain type of food (Schneider and Schneider, 2009). Integration of two disparate comestible potentially results in severe consequences without mention of new constituent. More seriously, food engineers themselves might unconsciously compose some toxic chemicals during the process which certainly does massive harm to citizens&#39; health (Vrain, 2013). In conclusion, while Genetically modified foods provide humans with foods with better resilience to possible damage and greater quality, they also give rise to worry about potential toxin and allergy it brings because of reform of genes and protein sequences. </p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[8.15 Paraphrase, Summary & Synthesis]]></title>
+    <link href="christmast.github.io/15343660933687.html"/>
+    <updated>2018-08-16T04:48:13+08:00</updated>
+    <id>christmast.github.io/15343660933687.html</id>
+    <content type="html"><![CDATA[
+<h2 id="toc_0">Exercise 3: Synthesis - Rainforests</h2>
+
+<p><strong>Synthesis:</strong></p>
+
+<p>A rainforest is a forest located in the tropical part of the earth which consists of numerous densely arranged tall trees. Recent years have witnessed the recession of rainforest: from 30% of the earth in 1950 to 6% in 2002 due to humans&#39; exploitation in resources. Four reasons can be found to justify the significance of preserving rainforest.</p>
+
+<ol>
+<li>Firstly, rainforest offer natural livelihood for tropical citizens with not only food but also material wealth and even sacred belief. Thus once rainforest is spoiled, those civilizations will no longer exist.</li>
+<li>Secondly, rainforest hides great amount of medicinal value. A prominent example is that there are over 2000 tropical rainforest plants can be used to deter cancer. Also rainforest plants contribute to about 40% prescribed drugs in US.</li>
+<li>Thirdly, rainforest are crucial on keeping the water and soil resource, without which natural catastrophe will happen.</li>
+<li>last but not least, as it is known to all, rainforest is the lung of the earth. Through absorbing of CO2 and emission of O2, rainforest can remarkably improve the air quality as well as restrain the climate change.<br/>
+Therefore, rainforest plays an indispensable role in humans&#39; ecosystem which explains why it must be preserved.</li>
+</ol>
+
+<h2 id="toc_1">Exercise 4: Synthesis - Globalisation</h2>
+
+<p><strong>Synthesis</strong><br/>
+Globalization is defined as a trend to unify the world in aspects like economy, culture and technology which started as early as European colonial era (Ellwood, 2001) which has been boosted up in recent years by moldering development of technology, sophisticated transportation and unrestricted flow of money. (Longman Dictionary, 2000)</p>
+
+<p>These are few prominent merits of globalization. The most evident one is that it provides the world with easier and wider contact including communication in both prevailing culture and distinct commodities. Barbie dolls, fast food and hip-pop can find their place to survive. So can characteristic specialty like Thai, Szechuan and Indian food (Ransome, 1997)</p>
+
+<p>Nonetheless, some severe impacts had been brought to the world by globalization. Firstly, it gave rise to the increasingly broadened wealth gap. Authority of determination had been aggregated in the hands of minority. Secondly, ethnic culture had been ravaged by the invasion of foreign culture. Moreover, globalization is also the criminal of devastating of environment, regional conflicts and deficiency of sense of collectivity.</p>
+
+<p>At present, governments are losing dominance on globalization and therefore need to regulate systems and future arrangement to coordinate with drastic transformation brought by globalization. Only taking care of occupation human’s basic need and economy as well as preservation of ecosystems can government ensure globalization is on the right track.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[8.13  Paragraphs writing]]></title>
+    <link href="christmast.github.io/15342809347500.html"/>
+    <updated>2018-08-15T05:08:54+08:00</updated>
+    <id>christmast.github.io/15342809347500.html</id>
+    <content type="html"><![CDATA[
+<h2 id="toc_0">P15 Activity 11:</h2>
+
+<h3 id="toc_1">Topic: a job that interests you.</h3>
+
+<h3 id="toc_2">Paragraph:</h3>
+
+<p>Film editor <u>is</u>  a person who can proficiently cut a film or short movie with professional applications and make profit from it. Nowadays, it <u>is</u> significantly important for unprofessional individuals to condense their special memory into a short trailer. Therefore there <u>is</u> no surprise to find out that film editors can gain great amount of money within short amount of time. However, the images for film editors <u>are</u> usually some overweighted persons with red and sleepy eyes. As a matter of fact, that <u>is</u> not always the case. Since these people are willing to devote their time for editing film, they must find editing interesting and worthwhile. Furthermore, they can also maintain a good shape through working out regularly in the interval of two orders. Hence being a film editor may <u>be</u> one of my favorite occupations in the future.</p>
+
+<h2 id="toc_3">P27 Activity 10:</h2>
+
+<h3 id="toc_4">Comparison targets:</h3>
+
+<p>Taking note with electronic devices and traditionally taking note with pen and book.</p>
+
+<h3 id="toc_5">Paragraph:</h3>
+
+<p>Today is 2018 when everything is trending in becoming digital. Thus, it is extremely difficult for college students to choose if they should take notes with their tablets and laptops. Note-taking on electronic devices has way more convenience in transferring data through cloud service. Also it <u>has</u> a prominent advantage that traditional books don&#39;t <u>have</u> which is the weight students take to class are significantly lighter. Nevertheless, that doesn&#39;t mean the traditional way is an outdated way. Countless researches internationally <u>have</u> shown that handwriting <u>has</u> more assistance in helping students to memorize knowledge. What&#39;s more is that with a  mere set of pen and notebook, listeners are less likely to be distracted by the messages popping up. Therefore in conclusion, these two ways of taking note both have their pros and cons, what undergraduates should do is wisely choose the tools in different circumstances. After all, the method is not the thing that matters, the knowledge is.</p>
 
 ]]></content>
   </entry>
